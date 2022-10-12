@@ -2,7 +2,7 @@
 ![The app](https://github.com/JELCZU/Angular-code-task/blob/master/img/The%20app.PNG) 
 
 Angular code task is app to display and search for work orders.
-Is developed using HTML+CSS+Javascript+angular.
+Is developed using HTML+CSS+Javascript+Angular.
 ## Table of contents
 * [Instalation](#Instalation)
 * [About app](#About-app)
