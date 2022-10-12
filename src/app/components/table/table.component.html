@@ -1,0 +1,19 @@
+<div class="container"><table>
+  <tr>
+    <th>WO ID</th>
+    <th>Description</th>
+    <th>Received date</th>
+    <th>Assigned to</th>
+    <th>Status</th>
+    <th>Priority</th>
+  </tr>
+  <tr *ngFor="let tableDataWorkOrder of tableDataWorkOrders">
+    <td>{{tableDataWorkOrder.woID}}</td>
+    <td>{{tableDataWorkOrder.description}}</td>
+    <td>{{tableDataWorkOrder.receivedDate}}</td>
+    <td>{{tableDataWorkOrder.assignedTo}}</td>
+    <td>{{tableDataWorkOrder.status}}</td>
+    <td>{{tableDataWorkOrder.priority}}</td>
+  </tr>
+</table>
+</div>

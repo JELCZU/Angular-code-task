@@ -1,0 +1,20 @@
+.container{
+  display: flex;
+  justify-content: center;
+  padding: 10px 10px;
+}
+table, th, tr, td{
+  border-width: 2px;
+  text-align: center;
+}
+th, tr, td{
+  border-style: solid;
+  padding:1em;
+}
+th{
+  background-color: green;
+}
+table{
+  align-self: center;
+  border-collapse: collapse;
+}

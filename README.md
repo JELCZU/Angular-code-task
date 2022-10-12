@@ -1,27 +1,32 @@
-# AngularCodeTask
+# Angular code task
+![The app](https://github.com/JELCZU/Angular-code-task/blob/master/img/The%20app.PNG) 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
+Angular code task is app to display and search for work orders.
+Is developed using HTML+CSS+Javascript+angular.
+## Table of contents
+* [Instalation](#Instalation)
+* [About app](#About-app)
+* [Technologies](#Technologies)
 
-## Development server
+---
+## Instalation
+To run project
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+git clone https://github.com/JELCZU/Angular-code-task.git
 
-## Code scaffolding
+or download repository by clicking "Open with GitHub Desktop" or "Download ZIP"
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+After download repository you can run project by type in terminal
+npm run backend
+ng serve
+## About app
+App is developed using HTML HTML+CSS+JavaScript and angular .
+To use app type work orders description that you looking in input area for and click "search"
+## Technologies
+HTML
 
-## Build
+CSS
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+JavaScript+Angular
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
