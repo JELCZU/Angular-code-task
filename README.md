@@ -17,7 +17,9 @@ git clone https://github.com/JELCZU/Angular-code-task.git
 or download repository by clicking "Open with GitHub Desktop" or "Download ZIP"
 
 After download repository you can run project by type in terminal
+
 npm run backend
+
 ng serve
 ## About app
 App is developed using HTML HTML+CSS+JavaScript and angular .
